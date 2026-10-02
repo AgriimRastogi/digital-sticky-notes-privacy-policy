@@ -1,23 +1,181 @@
 [
   {
-    "id": "changelog_v2_6_5",
-    "title": "Changelog & Bin Feature",
-    "date": "02/10/2026",
+    "id": "notice_20_bin",
+    "title": "Recycle Bin Feature Released",
+    "date": "03/10/2026",
     "tag": "Update",
-    "message": "We added a brand new **Recycle Bin** for restoring deleted notes, instant restore confirmations, and smooth **Themes**! Connect with us on [our Reddit](https://www.reddit.com/r/DigitalStickyNotes/) to share your thoughts.",
+    "message": "Accidentally delete a note? Don't panic! Notes now go to the **Recycle Bin** where you can preview, restore, or permanently erase them.",
     "link": {
       "text": "Visit Reddit Community",
-      "url": "https://www.reddit.com/r/DigitalStickyNotes/"
+      "url": "https://www.reddit.com/r/DigitalStickyNotesApp/"
     }
   },
   {
-    "id": "widget_pool_guide_v1",
-    "title": "Home Screen Widgets Guide",
-    "date": "01/10/2026",
+    "id": "notice_19_palette",
+    "title": "Dynamic Palette & Fonts",
+    "date": "02/10/2026",
     "tag": "Feature",
-    "message": "Did you know you can pin sticky notes to your phone screen? Tap the **Widget Pool icon** on any note to add it, then place the widget on your home screen. Learn more in the [Full User Guide](app://guide)!",
+    "message": "Explore the new **Palette** menu to personalize wall colors and note typography with live header preview support.",
     "link": {
       "text": "Open User Guide",
+      "url": "app://guide"
+    }
+  },
+  {
+    "id": "notice_18_widgets",
+    "title": "Home Screen Widgets Deep Dive",
+    "date": "01/10/2026",
+    "tag": "Guide",
+    "message": "Pin your most important sticky notes directly onto your Android Home screen. Tap the **Widget Pool icon** on any note to get started.",
+    "link": {
+      "text": "Read Widget Guide",
+      "url": "app://guide"
+    }
+  },
+  {
+    "id": "notice_17_reddit",
+    "title": "Reddit Community Now Live!",
+    "date": "30/09/2026",
+    "tag": "Community",
+    "message": "Join our official subreddit **r/DigitalStickyNotesApp** to discuss setups, suggest new features, and connect with other users!",
+    "link": {
+      "text": "Join r/DigitalStickyNotesApp",
+      "url": "https://www.reddit.com/r/DigitalStickyNotesApp/"
+    }
+  },
+  {
+    "id": "notice_16_clean_wall",
+    "title": "Distraction-Free Clean Wall View",
+    "date": "28/09/2026",
+    "tag": "Feature",
+    "message": "Need pure focus? Tap **Clean Wall View** in Settings to hide all buttons and navigation bars. Tap anywhere to bring them back."
+  },
+  {
+    "id": "notice_15_backup_tip",
+    "title": "Backing Up Your Sticky Notes",
+    "date": "25/09/2026",
+    "tag": "Guide",
+    "message": "All notes stay on your device! Use **Export Backup** in Settings to save your notes safely to Google Drive, SD Card, or another app.",
+    "link": {
+      "text": "Open User Guide",
+      "url": "app://guide"
+    }
+  },
+  {
+    "id": "notice_14_pro_canvas",
+    "title": "Pro Canvas & Freehand Drawing",
+    "date": "22/09/2026",
+    "tag": "Feature",
+    "message": "Turn any sticky note into an art sketch! Switch to **Art Mode** for precision drawing, highlighter strokes, and custom colors."
+  },
+  {
+    "id": "notice_13_checklist",
+    "title": "Checklist Notes & Task Tracking",
+    "date": "20/09/2026",
+    "tag": "Guide",
+    "message": "Create actionable checklists with strike-through toggles, custom fonts, and draggable reordering.",
+    "link": {
+      "text": "Explore Features",
+      "url": "app://guide"
+    }
+  },
+  {
+    "id": "notice_12_dilute_stacks",
+    "title": "Folders & Stack Management",
+    "date": "18/09/2026",
+    "tag": "Update",
+    "message": "When Folders are disabled, look for the compact **unlink icon** next to Folders in Settings to instantly dilute all stacks into independent notes."
+  },
+  {
+    "id": "notice_11_performance",
+    "title": "Hermes & Physics Performance",
+    "date": "15/09/2026",
+    "tag": "Announcement",
+    "message": "Enjoy ultra-smooth 60fps drag physics, instant canvas panning, and zero input lag powered by our optimized rendering engine."
+  },
+  {
+    "id": "notice_10_washi_tape",
+    "title": "Washi Tape Styles & Patterns",
+    "date": "12/09/2026",
+    "tag": "Feature",
+    "message": "Give your digital wall an authentic scrapbook aesthetic with realistic washi tapes, polka dots, grids, and stripes."
+  },
+  {
+    "id": "notice_09_multilingual",
+    "title": "14 Languages Fully Supported",
+    "date": "10/09/2026",
+    "tag": "Announcement",
+    "message": "Digital Sticky Notes is fully localized in 14 languages! Change languages anytime from the globe icon in Settings."
+  },
+  {
+    "id": "notice_08_review_mode",
+    "title": "Daily Card Review Mode",
+    "date": "07/09/2026",
+    "tag": "Guide",
+    "message": "Swipe through your notes flashcard-style in **Review Mode** to quickly plan your day or study key points.",
+    "link": {
+      "text": "Learn More",
+      "url": "app://guide"
+    }
+  },
+  {
+    "id": "notice_07_feedback_system",
+    "title": "Direct Feedback & Diagnostics",
+    "date": "04/09/2026",
+    "tag": "Update",
+    "message": "Experiencing an issue? Tap **Send Feedback** in Settings to email the developer directly with automatic diagnostic headers for fast resolution."
+  },
+  {
+    "id": "notice_06_shortcuts",
+    "title": "Gestures & Fast Canvas Navigation",
+    "date": "01/09/2026",
+    "tag": "General",
+    "message": "Double tap to zoom, pinch to inspect details, and long-press notes to bring them to the top layer."
+  },
+  {
+    "id": "notice_05_colors",
+    "title": "Harmonious Wall Themes",
+    "date": "28/08/2026",
+    "tag": "Feature",
+    "message": "Choose between Corkboard, Slate Dark, Sky Blue, Matcha Green, Lavender, and warm parchment backgrounds."
+  },
+  {
+    "id": "notice_04_privacy",
+    "title": "Our Strict Privacy Commitment",
+    "date": "25/08/2026",
+    "tag": "Announcement",
+    "message": "Zero trackers. Zero telemetry. No user accounts. Your data never leaves your device.",
+    "link": {
+      "text": "View Privacy Policy",
+      "url": "https://agriimrastogi.github.io/digital-sticky-notes-privacy-policy/"
+    }
+  },
+  {
+    "id": "notice_03_offline",
+    "title": "100% Offline by Design",
+    "date": "20/08/2026",
+    "tag": "General",
+    "message": "Take notes on planes, subways, or in the woods. Digital Sticky Notes never requires an internet connection to work."
+  },
+  {
+    "id": "notice_02_instagram",
+    "title": "Follow Us on Instagram",
+    "date": "15/08/2026",
+    "tag": "Community",
+    "message": "Tag **@digitalstickynotes.app** to showcase your creative canvas setups and desk workspaces!",
+    "link": {
+      "text": "Visit Instagram",
+      "url": "https://www.instagram.com/digitalstickynotes.app/"
+    }
+  },
+  {
+    "id": "notice_01_getting_started",
+    "title": "Quick Start Guide",
+    "date": "10/08/2026",
+    "tag": "Guide",
+    "message": "New to the app? Tap the **+** button to create your first sticky note. Choose a color, pick a font, and start brainstorming!",
+    "link": {
+      "text": "Open Full User Guide",
       "url": "app://guide"
     }
   }
