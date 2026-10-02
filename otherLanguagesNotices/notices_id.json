@@ -1,0 +1,24 @@
+[
+  {
+    "id": "changelog_v2_6_5",
+    "title": "Log Pembaruan & Fitur Tempat Sampah",
+    "date": "02/10/2026",
+    "tag": "Update",
+    "message": "Kami menambahkan fitur baru **Tempat Sampah** untuk memulihkan catatan yang dihapus, konfirmasi instan, dan **Tema** yang elegan! Hubungi kami di [Reddit kami](https://www.reddit.com/r/DigitalStickyNotes/) untuk berbagi pemikiran Anda.",
+    "link": {
+      "text": "Kunjungi Komunitas Reddit",
+      "url": "https://www.reddit.com/r/DigitalStickyNotes/"
+    }
+  },
+  {
+    "id": "widget_pool_guide_v1",
+    "title": "Panduan Widget Layar Utama",
+    "date": "01/10/2026",
+    "tag": "Feature",
+    "message": "Tahukah Anda bahwa Anda dapat menyematkan catatan tempel ke layar ponsel Anda? Ketuk **ikon kumpulan widget** pada catatan mana saja untuk menambahkannya, lalu tempatkan widget di layar utama Anda. Pelajari lebih lanjut di [Panduan Lengkap Pengguna](app://guide)!",
+    "link": {
+      "text": "Buka Panduan Pengguna",
+      "url": "app://guide"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": "changelog_v2_6_5",
+    "title": "변경 로그 및 휴지통 기능",
+    "date": "02/10/2026",
+    "tag": "Update",
+    "message": "삭제된 메모를 복원할 수 있는 새로운 **휴지통**, 즉시 복원 확인, 그리고 부드러운 **테마** 기능이 추가되었습니다! [Reddit 커뮤니티](https://www.reddit.com/r/DigitalStickyNotes/)에서 의견을 들려주세요.",
+    "link": {
+      "text": "Reddit 커뮤니티 방문",
+      "url": "https://www.reddit.com/r/DigitalStickyNotes/"
+    }
+  },
+  {
+    "id": "widget_pool_guide_v1",
+    "title": "홈 화면 위젯 사용 안내",
+    "date": "01/10/2026",
+    "tag": "Feature",
+    "message": "휴대폰 화면에 스티키 노트를 고정할 수 있다는 사실을 알고 계셨나요? 메모에서 **위젯 풀 아이콘**을 탭하여 추가한 후 홈 화면에 위젯을 배치하세요. 자세한 내용은 [전체 사용자 가이드](app://guide)에서 확인하세요!",
+    "link": {
+      "text": "사용자 가이드 열기",
+      "url": "app://guide"
+    }
+  }
+]

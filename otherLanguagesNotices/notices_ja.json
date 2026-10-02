@@ -1,0 +1,24 @@
+[
+  {
+    "id": "changelog_v2_6_5",
+    "title": "更新履歴とゴミ箱機能",
+    "date": "02/10/2026",
+    "tag": "Update",
+    "message": "削除したメモを復元できる**ゴミ箱**、即時復元確認、そしてスムーズな**テーマ**機能を追加しました！[Reddit コミュニティ](https://www.reddit.com/r/DigitalStickyNotes/) でぜひご意見をお聞かせください。",
+    "link": {
+      "text": "Reddit コミュニティを見る",
+      "url": "https://www.reddit.com/r/DigitalStickyNotes/"
+    }
+  },
+  {
+    "id": "widget_pool_guide_v1",
+    "title": "ホーム画面ウィジェットガイド",
+    "date": "01/10/2026",
+    "tag": "Feature",
+    "message": "スマホの画面に付箋を固定できることをご存知ですか？メモの**ウィジェットプールアイコン**をタップして追加し、ホーム画面にウィジェットを配置してください。詳しくは [完全ユーザーガイド](app://guide) をご覧ください！"
+    ,"link": {
+      "text": "ユーザーガイドを開く",
+      "url": "app://guide"
+    }
+  }
+]

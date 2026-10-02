@@ -1,0 +1,24 @@
+[
+  {
+    "id": "changelog_v2_6_5",
+    "title": "Histórico de Atualizações e Lixeira",
+    "date": "02/10/2026",
+    "tag": "Update",
+    "message": "Adicionamos uma nova **Lixeira** para restaurar notas excluídas, confirmações instantâneas e **Temas** suaves! Conecte-se conosco no [nosso Reddit](https://www.reddit.com/r/DigitalStickyNotes/) para compartilhar suas ideias.",
+    "link": {
+      "text": "Visitar comunidade no Reddit",
+      "url": "https://www.reddit.com/r/DigitalStickyNotes/"
+    }
+  },
+  {
+    "id": "widget_pool_guide_v1",
+    "title": "Guia de Widgets da Tela Inicial",
+    "date": "01/10/2026",
+    "tag": "Feature",
+    "message": "Você sabia que pode fixar notas adesivas na tela inicial do seu celular? Toque no **ícone do pool de widgets** em qualquer nota para adicioná-la e coloque o widget na sua tela inicial. Saiba mais no [Guia Completo do Usuário](app://guide)!",
+    "link": {
+      "text": "Abrir Guia do Usuário",
+      "url": "app://guide"
+    }
+  }
+]

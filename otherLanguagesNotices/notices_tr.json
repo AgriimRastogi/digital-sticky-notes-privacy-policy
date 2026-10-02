@@ -1,0 +1,24 @@
+[
+  {
+    "id": "changelog_v2_6_5",
+    "title": "Değişiklik Günlüğü ve Çöp Kutusu",
+    "date": "02/10/2026",
+    "tag": "Update",
+    "message": "Silinen notları geri yüklemek için yepyeni bir **Geri Dönüşüm Kutusu**, anında geri yükleme onayları ve akıcı **Temalar** ekledik! Düşüncelerinizi paylaşmak için [Reddit topluluğumuzda](https://www.reddit.com/r/DigitalStickyNotes/) bize katılın.",
+    "link": {
+      "text": "Reddit Topluluğunu Ziyaret Et",
+      "url": "https://www.reddit.com/r/DigitalStickyNotes/"
+    }
+  },
+  {
+    "id": "widget_pool_guide_v1",
+    "title": "Ana Ekran Widget Rehberi",
+    "date": "01/10/2026",
+    "tag": "Feature",
+    "message": "Yapışkan notları telefonunuzun ana ekranına sabitleyebileceğinizi biliyor muydunuz? Eklemek için herhangi bir nottaki **Widget Havuzu simgesine** dokunun, ardından widget'ı ana ekranınıza yerleştirin. Daha fazlasını [Tam Kullanıcı Rehberi](app://guide) içinde öğrenin!",
+    "link": {
+      "text": "Kullanıcı Rehberini Aç",
+      "url": "app://guide"
+    }
+  }
+]
