@@ -1,12 +1,24 @@
 [
   {
-    "id": "welcome_notice_v1",
-    "title": "Welcome to Digital Sticky Notes!",
-    "tag": "Welcome",
-    "message": "Thank you for using Digital Sticky Notes! Organize your thoughts, draw your ideas, pin home screen widgets, and make your digital wall feel just like home.",
+    "id": "changelog_v2_6_5",
+    "title": "Changelog & Bin Feature",
+    "date": "02/10/2026",
+    "tag": "Update",
+    "message": "We added a brand new **Recycle Bin** for restoring deleted notes, instant restore confirmations, and smooth **Themes**! Connect with us on [our Reddit](https://www.reddit.com/r/DigitalStickyNotes/) to share your thoughts.",
     "link": {
-      "text": "Join our Community",
-      "url": "https://www.instagram.com/digitalstickynotes.app/"
+      "text": "Visit Reddit Community",
+      "url": "https://www.reddit.com/r/DigitalStickyNotes/"
+    }
+  },
+  {
+    "id": "widget_pool_guide_v1",
+    "title": "Home Screen Widgets Guide",
+    "date": "01/10/2026",
+    "tag": "Feature",
+    "message": "Did you know you can pin sticky notes to your phone screen? Tap the **Widget Pool icon** on any note to add it, then place the widget on your home screen. Learn more in the [Full User Guide](app://guide)!",
+    "link": {
+      "text": "Open User Guide",
+      "url": "app://guide"
     }
   }
 ]
