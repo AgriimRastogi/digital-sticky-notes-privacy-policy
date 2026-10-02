@@ -1,0 +1,24 @@
+[
+  {
+    "id": "changelog_v2_6_5",
+    "title": "Novedades y papelera de reciclaje",
+    "date": "02/10/2026",
+    "tag": "Update",
+    "message": "¡Hemos añadido una **Papelera de reciclaje** para recuperar notas eliminadas, confirmaciones instantáneas y temas fluidos! Conéctate con nosotros en [nuestro Reddit](https://www.reddit.com/r/DigitalStickyNotes/) para compartir tus comentarios.",
+    "link": {
+      "text": "Visitar comunidad de Reddit",
+      "url": "https://www.reddit.com/r/DigitalStickyNotes/"
+    }
+  },
+  {
+    "id": "widget_pool_guide_v1",
+    "title": "Guía de widgets de pantalla de inicio",
+    "date": "01/10/2026",
+    "tag": "Feature",
+    "message": "¿Sabías que puedes fijar notas adhesivas en la pantalla de tu móvil? Toca el icono de **reserva de widgets** en cualquier nota para añadirla y colócala en tu pantalla de inicio. ¡Aprende más en la [Guía completa de usuario](app://guide)!",
+    "link": {
+      "text": "Abrir guía de usuario",
+      "url": "app://guide"
+    }
+  }
+]
