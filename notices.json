@@ -4,6 +4,7 @@
     "title": "Recycle Bin Feature Released",
     "date": "03/10/2026",
     "tag": "Update",
+    "imp": true,
     "message": "Accidentally delete a note? Don't panic! Notes now go to the **Recycle Bin** where you can preview, restore, or permanently erase them.",
     "link": {
       "text": "Visit Reddit Community",
@@ -15,6 +16,7 @@
     "title": "Dynamic Palette & Fonts",
     "date": "03/10/2026",
     "tag": "Feature",
+    "imp": false,
     "message": "Explore the new **Palette** menu to personalize wall colors and note typography with live header preview support.",
     "link": {
       "text": "Open User Guide",
@@ -26,6 +28,7 @@
     "title": "Home Screen Widgets Deep Dive",
     "date": "03/10/2026",
     "tag": "Guide",
+    "imp": true,
     "message": "Pin your most important sticky notes directly onto your Android Home screen. Tap the **Widget Pool icon** on any note to get started.",
     "link": {
       "text": "Read Widget Guide",
@@ -37,6 +40,7 @@
     "title": "Reddit Community Now Live!",
     "date": "03/10/2026",
     "tag": "Community",
+    "imp": false,
     "message": "Join our official subreddit **r/DigitalStickyNotesApp** to discuss setups, suggest new features, and connect with other users!",
     "link": {
       "text": "Join r/DigitalStickyNotesApp",
@@ -48,6 +52,7 @@
     "title": "Distraction-Free Clean Wall View",
     "date": "02/10/2026",
     "tag": "Feature",
+    "imp": false,
     "message": "Need pure focus? Tap **Clean Wall View** in Settings to hide all buttons and navigation bars. Tap anywhere to bring them back."
   },
   {
@@ -55,6 +60,7 @@
     "title": "Backing Up Your Sticky Notes",
     "date": "02/10/2026",
     "tag": "Guide",
+    "imp": true,
     "message": "All notes stay on your device! Use **Export Backup** in Settings to save your notes safely to Google Drive, SD Card, or another app.",
     "link": {
       "text": "Open User Guide",
@@ -66,6 +72,7 @@
     "title": "Pro Canvas & Freehand Drawing",
     "date": "02/10/2026",
     "tag": "Feature",
+    "imp": true,
     "message": "Turn any sticky note into an art sketch! Switch to **Art Mode** for precision drawing, highlighter strokes, and custom colors."
   },
   {
@@ -73,6 +80,7 @@
     "title": "Checklist Notes & Task Tracking",
     "date": "02/10/2026",
     "tag": "Guide",
+    "imp": false,
     "message": "Create actionable checklists with strike-through toggles, custom fonts, and draggable reordering.",
     "link": {
       "text": "Explore Features",
@@ -84,6 +92,7 @@
     "title": "Folders & Stack Management",
     "date": "02/10/2026",
     "tag": "Update",
+    "imp": false,
     "message": "When Folders are disabled, look for the compact **unlink icon** next to Folders in Settings to instantly dilute all stacks into independent notes."
   },
   {
@@ -91,6 +100,7 @@
     "title": "Hermes & Physics Performance",
     "date": "01/10/2026",
     "tag": "Announcement",
+    "imp": false,
     "message": "Enjoy ultra-smooth 60fps drag physics, instant canvas panning, and zero input lag powered by our optimized rendering engine."
   },
   {
@@ -98,6 +108,7 @@
     "title": "Washi Tape Styles & Patterns",
     "date": "01/10/2026",
     "tag": "Feature",
+    "imp": false,
     "message": "Give your digital wall an authentic scrapbook aesthetic with realistic washi tapes, polka dots, grids, and stripes."
   },
   {
@@ -105,6 +116,7 @@
     "title": "14 Languages Fully Supported",
     "date": "01/10/2026",
     "tag": "Announcement",
+    "imp": true,
     "message": "Digital Sticky Notes is fully localized in 14 languages! Change languages anytime from the globe icon in Settings."
   },
   {
@@ -112,6 +124,7 @@
     "title": "Daily Card Review Mode",
     "date": "01/10/2026",
     "tag": "Guide",
+    "imp": false,
     "message": "Swipe through your notes flashcard-style in **Review Mode** to quickly plan your day or study key points.",
     "link": {
       "text": "Learn More",
@@ -123,6 +136,7 @@
     "title": "Direct Feedback & Diagnostics",
     "date": "01/10/2026",
     "tag": "Update",
+    "imp": true,
     "message": "Experiencing an issue? Tap **Send Feedback** in Settings to email the developer directly with automatic diagnostic headers for fast resolution."
   },
   {
@@ -130,6 +144,7 @@
     "title": "Gestures & Fast Canvas Navigation",
     "date": "01/10/2026",
     "tag": "General",
+    "imp": false,
     "message": "Double tap to zoom, pinch to inspect details, and long-press notes to bring them to the top layer."
   },
   {
@@ -137,6 +152,7 @@
     "title": "Harmonious Wall Themes",
     "date": "01/10/2026",
     "tag": "Feature",
+    "imp": false,
     "message": "Choose between Corkboard, Slate Dark, Sky Blue, Matcha Green, Lavender, and warm parchment backgrounds."
   },
   {
@@ -144,6 +160,7 @@
     "title": "Our Strict Privacy Commitment",
     "date": "01/10/2026",
     "tag": "Announcement",
+    "imp": true,
     "message": "Zero trackers. Zero telemetry. No user accounts. Your data never leaves your device.",
     "link": {
       "text": "View Privacy Policy",
@@ -155,6 +172,7 @@
     "title": "100% Offline by Design",
     "date": "01/10/2026",
     "tag": "General",
+    "imp": false,
     "message": "Take notes on planes, subways, or in the woods. Digital Sticky Notes never requires an internet connection to work."
   },
   {
@@ -162,6 +180,7 @@
     "title": "Follow Us on Instagram",
     "date": "01/10/2026",
     "tag": "Community",
+    "imp": false,
     "message": "Tag **@digitalstickynotes.app** to showcase your creative canvas setups and desk workspaces!",
     "link": {
       "text": "Visit Instagram",
@@ -173,6 +192,7 @@
     "title": "Quick Start Guide",
     "date": "01/10/2026",
     "tag": "Guide",
+    "imp": false,
     "message": "New to the app? Tap the **+** button to create your first sticky note. Choose a color, pick a font, and start brainstorming!",
     "link": {
       "text": "Open Full User Guide",
