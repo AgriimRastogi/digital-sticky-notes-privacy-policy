@@ -1,5 +1,17 @@
 [
   {
+    "id": "notice_21_release_v2_7_5",
+    "title": "Welcome to Version 2.7.5!",
+    "date": "03/10/2026",
+    "tag": "Announcement",
+    "imp": true,
+    "message": "We are thrilled to roll out **v2.7.5**! Enjoy our new morphing quick-access menu, the **Recycle Bin**, and real-time font previews in the **Palette**.",
+    "link": {
+      "text": "Visit Reddit Community",
+      "url": "https://www.reddit.com/r/DigitalStickyNotesApp/"
+    }
+  },
+  {
     "id": "notice_20_bin",
     "title": "Recycle Bin Feature Released",
     "date": "03/10/2026",
