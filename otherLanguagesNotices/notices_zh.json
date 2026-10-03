@@ -4,11 +4,12 @@
     "title": "更新日志与回收站功能",
     "date": "02/10/2026",
     "tag": "Update",
-    "message": "我们新增了全新的**回收站**功能，可随时恢复已删除的便签，支持即时恢复确认，并带来了流畅的**主题**！欢迎在 [Reddit 社区](https://www.reddit.com/r/DigitalStickyNotes/) 与我们交流想法。",
+    "message": "我们新增了全新的**回收站**功能，可随时恢复已删除的便签，支持即时恢复确认，并带来了流畅的**主题**！欢迎在 [Reddit 社区](https://www.reddit.com/r/DigitalStickyNotesApp/) 与我们交流想法。",
     "link": {
       "text": "访问 Reddit 社区",
-      "url": "https://www.reddit.com/r/DigitalStickyNotes/"
-    }
+      "url": "https://www.reddit.com/r/DigitalStickyNotesApp/"
+    },
+    "imp": true
   },
   {
     "id": "widget_pool_guide_v1",
@@ -19,6 +20,7 @@
     "link": {
       "text": "打开用户指南",
       "url": "app://guide"
-    }
+    },
+    "imp": true
   }
 ]

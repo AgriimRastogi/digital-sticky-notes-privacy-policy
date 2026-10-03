@@ -4,11 +4,12 @@
     "title": "Log Pembaruan & Fitur Tempat Sampah",
     "date": "02/10/2026",
     "tag": "Update",
-    "message": "Kami menambahkan fitur baru **Tempat Sampah** untuk memulihkan catatan yang dihapus, konfirmasi instan, dan **Tema** yang elegan! Hubungi kami di [Reddit kami](https://www.reddit.com/r/DigitalStickyNotes/) untuk berbagi pemikiran Anda.",
+    "message": "Kami menambahkan fitur baru **Tempat Sampah** untuk memulihkan catatan yang dihapus, konfirmasi instan, dan **Tema** yang elegan! Hubungi kami di [Reddit kami](https://www.reddit.com/r/DigitalStickyNotesApp/) untuk berbagi pemikiran Anda.",
     "link": {
       "text": "Kunjungi Komunitas Reddit",
-      "url": "https://www.reddit.com/r/DigitalStickyNotes/"
-    }
+      "url": "https://www.reddit.com/r/DigitalStickyNotesApp/"
+    },
+    "imp": true
   },
   {
     "id": "widget_pool_guide_v1",
@@ -19,6 +20,7 @@
     "link": {
       "text": "Buka Panduan Pengguna",
       "url": "app://guide"
-    }
+    },
+    "imp": true
   }
 ]

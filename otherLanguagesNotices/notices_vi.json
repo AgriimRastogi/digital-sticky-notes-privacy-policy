@@ -4,11 +4,12 @@
     "title": "Nhật ký thay đổi & Thùng rác",
     "date": "02/10/2026",
     "tag": "Update",
-    "message": "Chúng tôi đã thêm **Thùng rác** hoàn toàn mới để khôi phục ghi chú đã xóa, xác nhận tức thì và các **Chủ đề** mượt mà! Kết nối với chúng tôi trên [Reddit](https://www.reddit.com/r/DigitalStickyNotes/) để chia sẻ ý kiến.",
+    "message": "Chúng tôi đã thêm **Thùng rác** hoàn toàn mới để khôi phục ghi chú đã xóa, xác nhận tức thì và các **Chủ đề** mượt mà! Kết nối với chúng tôi trên [Reddit](https://www.reddit.com/r/DigitalStickyNotesApp/) để chia sẻ ý kiến.",
     "link": {
       "text": "Ghé thăm cộng đồng Reddit",
-      "url": "https://www.reddit.com/r/DigitalStickyNotes/"
-    }
+      "url": "https://www.reddit.com/r/DigitalStickyNotesApp/"
+    },
+    "imp": true
   },
   {
     "id": "widget_pool_guide_v1",
@@ -19,6 +20,7 @@
     "link": {
       "text": "Mở hướng dẫn sử dụng",
       "url": "app://guide"
-    }
+    },
+    "imp": true
   }
 ]

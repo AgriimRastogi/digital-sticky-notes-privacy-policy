@@ -4,11 +4,12 @@
     "title": "परिवर्तन सूची और रीसायकल बिन",
     "date": "02/10/2026",
     "tag": "Update",
-    "message": "हमने हटाए गए नोट्स को पुनः प्राप्त करने के लिए एक नया **रीसायकल बिन**, तत्काल पुष्टि और सहज **थीम्स** जोड़े हैं! अपने विचार साझा करने के लिए [हमारे Reddit](https://www.reddit.com/r/DigitalStickyNotes/) पर जुड़ें।",
+    "message": "हमने हटाए गए नोट्स को पुनः प्राप्त करने के लिए एक नया **रीसायकल बिन**, तत्काल पुष्टि और सहज **थीम्स** जोड़े हैं! अपने विचार साझा करने के लिए [हमारे Reddit](https://www.reddit.com/r/DigitalStickyNotesApp/) पर जुड़ें।",
     "link": {
       "text": "Reddit समुदाय पर जाएं",
-      "url": "https://www.reddit.com/r/DigitalStickyNotes/"
-    }
+      "url": "https://www.reddit.com/r/DigitalStickyNotesApp/"
+    },
+    "imp": true
   },
   {
     "id": "widget_pool_guide_v1",
@@ -19,6 +20,7 @@
     "link": {
       "text": "यूजर गाइड खोलें",
       "url": "app://guide"
-    }
+    },
+    "imp": true
   }
 ]

@@ -4,11 +4,12 @@
     "title": "Notes de version et Corbeille",
     "date": "02/10/2026",
     "tag": "Update",
-    "message": "Nous avons ajouté une toute nouvelle **Corbeille** pour restaurer vos notes supprimées, des confirmations instantanées et des **Thèmes** fluides ! Rejoignez-nous sur [notre Reddit](https://www.reddit.com/r/DigitalStickyNotes/) pour donner votre avis.",
+    "message": "Nous avons ajouté une toute nouvelle **Corbeille** pour restaurer vos notes supprimées, des confirmations instantanées et des **Thèmes** fluides ! Rejoignez-nous sur [notre Reddit](https://www.reddit.com/r/DigitalStickyNotesApp/) pour donner votre avis.",
     "link": {
       "text": "Visiter la communauté Reddit",
-      "url": "https://www.reddit.com/r/DigitalStickyNotes/"
-    }
+      "url": "https://www.reddit.com/r/DigitalStickyNotesApp/"
+    },
+    "imp": true
   },
   {
     "id": "widget_pool_guide_v1",
@@ -19,6 +20,7 @@
     "link": {
       "text": "Ouvrir le guide utilisateur",
       "url": "app://guide"
-    }
+    },
+    "imp": true
   }
 ]

@@ -4,11 +4,12 @@
     "title": "변경 로그 및 휴지통 기능",
     "date": "02/10/2026",
     "tag": "Update",
-    "message": "삭제된 메모를 복원할 수 있는 새로운 **휴지통**, 즉시 복원 확인, 그리고 부드러운 **테마** 기능이 추가되었습니다! [Reddit 커뮤니티](https://www.reddit.com/r/DigitalStickyNotes/)에서 의견을 들려주세요.",
+    "message": "삭제된 메모를 복원할 수 있는 새로운 **휴지통**, 즉시 복원 확인, 그리고 부드러운 **테마** 기능이 추가되었습니다! [Reddit 커뮤니티](https://www.reddit.com/r/DigitalStickyNotesApp/)에서 의견을 들려주세요.",
     "link": {
       "text": "Reddit 커뮤니티 방문",
-      "url": "https://www.reddit.com/r/DigitalStickyNotes/"
-    }
+      "url": "https://www.reddit.com/r/DigitalStickyNotesApp/"
+    },
+    "imp": true
   },
   {
     "id": "widget_pool_guide_v1",
@@ -19,6 +20,7 @@
     "link": {
       "text": "사용자 가이드 열기",
       "url": "app://guide"
-    }
+    },
+    "imp": true
   }
 ]

@@ -4,11 +4,12 @@
     "title": "Список изменений и Корзина",
     "date": "02/10/2026",
     "tag": "Update",
-    "message": "Мы добавили новую **Корзину** для восстановления удаленных заметок, мгновенные подтверждения и плавные **Темы**! Присоединяйтесь к нам на [нашем Reddit](https://www.reddit.com/r/DigitalStickyNotes/), чтобы поделиться мыслями.",
+    "message": "Мы добавили новую **Корзину** для восстановления удаленных заметок, мгновенные подтверждения и плавные **Темы**! Присоединяйтесь к нам на [нашем Reddit](https://www.reddit.com/r/DigitalStickyNotesApp/), чтобы поделиться мыслями.",
     "link": {
       "text": "Перейти в сообщество Reddit",
-      "url": "https://www.reddit.com/r/DigitalStickyNotes/"
-    }
+      "url": "https://www.reddit.com/r/DigitalStickyNotesApp/"
+    },
+    "imp": true
   },
   {
     "id": "widget_pool_guide_v1",
@@ -19,6 +20,7 @@
     "link": {
       "text": "Открыть руководство",
       "url": "app://guide"
-    }
+    },
+    "imp": true
   }
 ]

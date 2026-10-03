@@ -4,11 +4,12 @@
     "title": "Histórico de Atualizações e Lixeira",
     "date": "02/10/2026",
     "tag": "Update",
-    "message": "Adicionamos uma nova **Lixeira** para restaurar notas excluídas, confirmações instantâneas e **Temas** suaves! Conecte-se conosco no [nosso Reddit](https://www.reddit.com/r/DigitalStickyNotes/) para compartilhar suas ideias.",
+    "message": "Adicionamos uma nova **Lixeira** para restaurar notas excluídas, confirmações instantâneas e **Temas** suaves! Conecte-se conosco no [nosso Reddit](https://www.reddit.com/r/DigitalStickyNotesApp/) para compartilhar suas ideias.",
     "link": {
       "text": "Visitar comunidade no Reddit",
-      "url": "https://www.reddit.com/r/DigitalStickyNotes/"
-    }
+      "url": "https://www.reddit.com/r/DigitalStickyNotesApp/"
+    },
+    "imp": true
   },
   {
     "id": "widget_pool_guide_v1",
@@ -19,6 +20,7 @@
     "link": {
       "text": "Abrir Guia do Usuário",
       "url": "app://guide"
-    }
+    },
+    "imp": true
   }
 ]

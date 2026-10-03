@@ -4,11 +4,12 @@
     "title": "Änderungsprotokoll & Papierkorb",
     "date": "02/10/2026",
     "tag": "Update",
-    "message": "Wir haben einen brandneuen **Papierkorb** zum Wiederherstellen gelöschter Notizen, sofortige Bestätigungen und flüssige **Designs** hinzugefügt! Tauschen Sie sich auf [unserem Reddit](https://www.reddit.com/r/DigitalStickyNotes/) mit uns aus.",
+    "message": "Wir haben einen brandneuen **Papierkorb** zum Wiederherstellen gelöschter Notizen, sofortige Bestätigungen und flüssige **Designs** hinzugefügt! Tauschen Sie sich auf [unserem Reddit](https://www.reddit.com/r/DigitalStickyNotesApp/) mit uns aus.",
     "link": {
       "text": "Reddit-Community besuchen",
-      "url": "https://www.reddit.com/r/DigitalStickyNotes/"
-    }
+      "url": "https://www.reddit.com/r/DigitalStickyNotesApp/"
+    },
+    "imp": true
   },
   {
     "id": "widget_pool_guide_v1",
@@ -19,6 +20,7 @@
     "link": {
       "text": "Benutzerhandbuch öffnen",
       "url": "app://guide"
-    }
+    },
+    "imp": true
   }
 ]

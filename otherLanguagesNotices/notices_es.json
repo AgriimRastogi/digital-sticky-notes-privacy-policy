@@ -4,11 +4,12 @@
     "title": "Novedades y papelera de reciclaje",
     "date": "02/10/2026",
     "tag": "Update",
-    "message": "¡Hemos añadido una **Papelera de reciclaje** para recuperar notas eliminadas, confirmaciones instantáneas y temas fluidos! Conéctate con nosotros en [nuestro Reddit](https://www.reddit.com/r/DigitalStickyNotes/) para compartir tus comentarios.",
+    "message": "¡Hemos añadido una **Papelera de reciclaje** para recuperar notas eliminadas, confirmaciones instantáneas y temas fluidos! Conéctate con nosotros en [nuestro Reddit](https://www.reddit.com/r/DigitalStickyNotesApp/) para compartir tus comentarios.",
     "link": {
       "text": "Visitar comunidad de Reddit",
-      "url": "https://www.reddit.com/r/DigitalStickyNotes/"
-    }
+      "url": "https://www.reddit.com/r/DigitalStickyNotesApp/"
+    },
+    "imp": true
   },
   {
     "id": "widget_pool_guide_v1",
@@ -19,6 +20,7 @@
     "link": {
       "text": "Abrir guía de usuario",
       "url": "app://guide"
-    }
+    },
+    "imp": true
   }
 ]
