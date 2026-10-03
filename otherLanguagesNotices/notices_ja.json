@@ -1,10 +1,22 @@
 [
   {
+    "id": "notice_pin_feature_v1",
+    "title": "重要なお知らせをピン留め",
+    "date": "04/10/2026",
+    "tag": "Feature",
+    "imp": true,
+    "message": "• **右スライドでピン留め**：お知らせを右にスライドして一番上に固定できます！\n• **左スライドで削除**：不要なお知らせは左にスライドして削除できます。\n• 言語を変更しても、ピン留めしたお知らせは常に上部に保持されます。",
+    "link": {
+      "text": "Reddit コミュニティに参加",
+      "url": "https://www.reddit.com/r/DigitalStickyNotesApp/"
+    }
+  },
+  {
     "id": "notice_v2_7_5_updates",
     "title": "2.7.5 アップデート",
     "date": "03/10/2026",
     "tag": "Feature",
-    "imp": true,
+    "imp": false,
     "message": "• アプリ内で最新情報を受け取れるようになりました！このように。\n• 設定に**フィードバックを送信**ボタンを追加しました。\n• [Reddit コミュニティ](https://www.reddit.com/r/DigitalStickyNotesApp/)に参加しましょう！\n• 削除したメモはゴミ箱で一定期間安全に保護されます。",
     "link": {
       "text": "Reddit コミュニティに参加",

@@ -1,10 +1,22 @@
 [
   {
+    "id": "notice_pin_feature_v1",
+    "title": "Sematkan Pemberitahuan Penting",
+    "date": "04/10/2026",
+    "tag": "Feature",
+    "imp": true,
+    "message": "• **Geser ke Kanan untuk Menyematkan**: Anda sekarang dapat menyematkan pemberitahuan ke bagian atas dengan menggeser ke kanan!\n• **Geser ke Kiri untuk Menghapus**: Geser ke kiri untuk menghapus pemberitahuan yang tidak diperlukan.\n• Pemberitahuan yang disematkan akan tetap berada di atas meskipun Anda berganti bahasa.",
+    "link": {
+      "text": "Gabung Komunitas Reddit",
+      "url": "https://www.reddit.com/r/DigitalStickyNotesApp/"
+    }
+  },
+  {
     "id": "notice_v2_7_5_updates",
     "title": "Pembaruan 2.7.5",
     "date": "03/10/2026",
     "tag": "Feature",
-    "imp": true,
+    "imp": false,
     "message": "• Sekarang Anda dapat menerima pembaruan dalam aplikasi! Seperti ini.\n• Menambahkan tombol **Kirim Masukan** di Pengaturan.\n• Bergabunglah dengan [komunitas Reddit](https://www.reddit.com/r/DigitalStickyNotesApp/) kami!\n• Sekarang catatan yang dihapus aman untuk beberapa waktu di Tempat Sampah.",
     "link": {
       "text": "Gabung Komunitas Reddit",

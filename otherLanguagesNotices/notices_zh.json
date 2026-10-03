@@ -1,10 +1,22 @@
 [
   {
+    "id": "notice_pin_feature_v1",
+    "title": "置顶重要通知",
+    "date": "04/10/2026",
+    "tag": "Feature",
+    "imp": true,
+    "message": "• **向右滑动以置顶**：现在您可以向右滑动任何通知将其置顶！\n• **向左滑动以删除**：向左滑动即可删除不需要的通知。\n• 即使切换语言，已置顶的通知也会始终保持在顶部。",
+    "link": {
+      "text": "加入 Reddit 社区",
+      "url": "https://www.reddit.com/r/DigitalStickyNotesApp/"
+    }
+  },
+  {
     "id": "notice_v2_7_5_updates",
     "title": "2.7.5 版本更新",
     "date": "03/10/2026",
     "tag": "Feature",
-    "imp": true,
+    "imp": false,
     "message": "• 现在您可以在应用内接收更新通知啦！就像这样。\n• 设置中新增了**发送反馈**按钮。\n• 欢迎加入我们的 [Reddit 社区](https://www.reddit.com/r/DigitalStickyNotesApp/)！\n• 现在删除的便签会在回收站中保留一段时间，安全无忧。",
     "link": {
       "text": "加入 Reddit 社区",

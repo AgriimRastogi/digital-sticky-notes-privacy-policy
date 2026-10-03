@@ -1,10 +1,22 @@
 [
   {
+    "id": "notice_pin_feature_v1",
+    "title": "Wichtige Hinweise anpinnen",
+    "date": "04/10/2026",
+    "tag": "Feature",
+    "imp": true,
+    "message": "• **Nach rechts wischen zum Anpinnen**: Wischen Sie nach rechts, um Hinweise ganz oben anzuheften!\n• **Nach links wischen zum Löschen**: Wischen Sie nach links, um nicht benötigte Hinweise zu entfernen.\n• Angepinnte Hinweise bleiben auch beim Sprachwechsel immer ganz oben.",
+    "link": {
+      "text": "Reddit-Community beitreten",
+      "url": "https://www.reddit.com/r/DigitalStickyNotesApp/"
+    }
+  },
+  {
     "id": "notice_v2_7_5_updates",
     "title": "2.7.5 Aktualisierungen",
     "date": "03/10/2026",
     "tag": "Feature",
-    "imp": true,
+    "imp": false,
     "message": "• Jetzt kannst du In-App-Updates erhalten! Genau wie dieses.\n• Schaltfläche **Feedback senden** in den Einstellungen hinzugefügt.\n• Tritt unserer [Reddit-Community](https://www.reddit.com/r/DigitalStickyNotesApp/) bei!\n• Deine gelöschten Notizen sind jetzt im Papierkorb für einige Zeit sicher aufgehoben.",
     "link": {
       "text": "Reddit-Community beitreten",
