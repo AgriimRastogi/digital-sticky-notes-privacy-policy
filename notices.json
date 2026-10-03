@@ -399,5 +399,405 @@
     "tag": "Announcement",
     "imp": false,
     "message": "• Welcome to the all-new Digital Sticky Notes experience!\n• Infinite canvas, home screen widgets, hand drawing, and tactile sticky paper."
+  },
+  {
+    "id": "notice_update_51",
+    "title": "2.1.9 Canvas Pan Inertia Tuning",
+    "date": "30/12/2025",
+    "tag": "Update",
+    "imp": false,
+    "message": "• Tuned natural friction deceleration for smoother wall flick gestures.\n• Reduced inertial jitter when panning across heavy walls."
+  },
+  {
+    "id": "notice_update_52",
+    "title": "2.1.8 Holiday Winter Wall Themes",
+    "date": "24/12/2025",
+    "tag": "Feature",
+    "imp": false,
+    "message": "• Added festive winter and midnight blue paper palettes.\n• Contrast enhanced for cozy nighttime note taking."
+  },
+  {
+    "id": "notice_update_53",
+    "title": "2.1.7 Checklist Quick Indent",
+    "date": "18/12/2025",
+    "tag": "Feature",
+    "imp": false,
+    "message": "• Swipe right on any checklist task to quickly indent as a subtask.\n• Reorder nested tasks with intuitive touch feedback."
+  },
+  {
+    "id": "notice_update_54",
+    "title": "2.1.6 Font Rendering Sharpness",
+    "date": "12/12/2025",
+    "tag": "General",
+    "imp": false,
+    "message": "• Optimized font rasterization for crisp typography on Quad HD screens.\n• Consistent baseline alignment across all custom fonts."
+  },
+  {
+    "id": "notice_update_55",
+    "title": "2.1.5 Low Power Mode Efficiency",
+    "date": "06/12/2025",
+    "tag": "Update",
+    "imp": false,
+    "message": "• Adaptive frame rate throttling when idling to conserve battery life.\n• Reduced CPU cycles during background widget refreshes."
+  },
+  {
+    "id": "notice_update_56",
+    "title": "2.1.4 Custom Color Swatches",
+    "date": "30/11/2025",
+    "tag": "Feature",
+    "imp": false,
+    "message": "• Save frequently used note colors into your quick-access palette bar.\n• One-tap color switching while drafting notes."
+  },
+  {
+    "id": "notice_update_57",
+    "title": "2.1.3 Auto-Backup Reminders",
+    "date": "24/11/2025",
+    "tag": "Guide",
+    "imp": false,
+    "message": "• Friendly reminders to export your wall backup before major system updates.\n• Safe one-tap JSON export directly from Settings."
+  },
+  {
+    "id": "notice_update_58",
+    "title": "2.1.2 Offline Cache Validation",
+    "date": "18/11/2025",
+    "tag": "Update",
+    "imp": false,
+    "message": "• Reinforced local cache validation to prevent corrupted storage reads.\n• Graceful fallback for notes with missing metadata."
+  },
+  {
+    "id": "notice_update_59",
+    "title": "2.1.1 Quick Note Color Flip",
+    "date": "12/11/2025",
+    "tag": "Feature",
+    "imp": false,
+    "message": "• Swipe down on note color tab to instantly cycle through theme shades.\n• Smooth cross-dissolve animation between paper tints."
+  },
+  {
+    "id": "notice_update_60",
+    "title": "2.1.0 Folders Beta Introduction",
+    "date": "06/11/2025",
+    "tag": "Announcement",
+    "imp": false,
+    "message": "• Experimental folder stacking: drop one note on another to group them!\n• Tap any stack to expand and review all contained notes."
+  },
+  {
+    "id": "notice_update_61",
+    "title": "2.0.9 Halloween Orange Note Theme",
+    "date": "31/10/2025",
+    "tag": "General",
+    "imp": false,
+    "message": "• Added vibrant pumpkin orange and dark charcoal note styling.\n• Fun seasonal theme for creative brainstorming."
+  },
+  {
+    "id": "notice_update_62",
+    "title": "2.0.8 Widget Snapshot Clarity",
+    "date": "25/10/2025",
+    "tag": "Update",
+    "imp": false,
+    "message": "• High-resolution PNG rendering for home screen widget previews.\n• Eliminated blurry text on high-density displays."
+  },
+  {
+    "id": "notice_update_63",
+    "title": "2.0.7 Double-Tap Gesture Threshold",
+    "date": "19/10/2025",
+    "tag": "General",
+    "imp": false,
+    "message": "• Refined timing window for double-tap note creation.\n• Prevents accidental note spawning while fast scrolling."
+  },
+  {
+    "id": "notice_update_64",
+    "title": "2.0.6 Canvas Boundary Expansion",
+    "date": "13/10/2025",
+    "tag": "Feature",
+    "imp": false,
+    "message": "• Wall canvas boundaries now expand dynamically as notes are added.\n• Never run out of space for big ideas and weekly plans."
+  },
+  {
+    "id": "notice_update_65",
+    "title": "2.0.5 Special Elite Typewriter Polish",
+    "date": "07/10/2025",
+    "tag": "General",
+    "imp": false,
+    "message": "• Adjusted letter spacing and line heights for vintage typewriter font.\n• Authentic mechanical print appearance."
+  },
+  {
+    "id": "notice_update_66",
+    "title": "2.0.4 Ink Smoothing Algorithm",
+    "date": "01/10/2025",
+    "tag": "Feature",
+    "imp": false,
+    "message": "• Real-time Bezier curve smoothing for drawing and signature notes.\n• Hand-drawn lines feel natural and fluid."
+  },
+  {
+    "id": "notice_update_67",
+    "title": "2.0.3 Multi-Note Alignment Tools",
+    "date": "25/09/2025",
+    "tag": "Feature",
+    "imp": false,
+    "message": "• Align multiple sticky notes horizontally or vertically with magnetic guides.\n• Keep structured boards neat and organized."
+  },
+  {
+    "id": "notice_update_68",
+    "title": "2.0.2 Haptic Feedback Settings",
+    "date": "19/09/2025",
+    "tag": "Update",
+    "imp": false,
+    "message": "• Configure vibration intensity for note taps, drags, and delete actions.\n• Respects system-level haptic preferences."
+  },
+  {
+    "id": "notice_update_69",
+    "title": "2.0.1 Launch Stability Patch",
+    "date": "13/09/2025",
+    "tag": "Update",
+    "imp": false,
+    "message": "• Resolved a rare crash when importing large backup files from older devices.\n• Memory optimizations for canvas textures."
+  },
+  {
+    "id": "notice_update_70",
+    "title": "2.0.0 Welcome to 2.0 Overhaul",
+    "date": "07/09/2025",
+    "tag": "Announcement",
+    "imp": false,
+    "message": "• Completely redesigned engine with smooth gestures, widgets, and themes!\n• Crafted for speed, simplicity, and delightful organization."
+  },
+  {
+    "id": "notice_update_71",
+    "title": "1.9.9 Classic Wall Transition Guide",
+    "date": "31/08/2025",
+    "tag": "Guide",
+    "imp": false,
+    "message": "• Learn about the brand new features arriving in the upcoming 2.0 upgrade.\n• All existing notes seamlessly transition to the new format."
+  },
+  {
+    "id": "notice_update_72",
+    "title": "1.9.8 Checklist Strikethrough Animation",
+    "date": "25/08/2025",
+    "tag": "Feature",
+    "imp": false,
+    "message": "• Satisfying animated strikethrough when completing tasks.\n• Completed tasks subtly fade for clarity."
+  },
+  {
+    "id": "notice_update_73",
+    "title": "1.9.7 Home Screen Widget Preview",
+    "date": "19/08/2025",
+    "tag": "Feature",
+    "imp": false,
+    "message": "• First look at interactive home screen widgets for Android.\n• Keep essential to-dos right in front of you."
+  },
+  {
+    "id": "notice_update_74",
+    "title": "1.9.6 Paper Texture Shadows",
+    "date": "13/08/2025",
+    "tag": "General",
+    "imp": false,
+    "message": "• Added subtle elevation shadows under notes for true 3D paper depth.\n• Dynamically adjusts when moving notes."
+  },
+  {
+    "id": "notice_update_75",
+    "title": "1.9.5 Data Export Verification",
+    "date": "07/08/2025",
+    "tag": "Update",
+    "imp": false,
+    "message": "• Integrity check verifies backup files immediately after generation.\n• Peace of mind that your notes are 100% intact."
+  },
+  {
+    "id": "notice_update_76",
+    "title": "1.9.4 Cursive Font Preview",
+    "date": "01/08/2025",
+    "tag": "General",
+    "imp": false,
+    "message": "• Added elegant Caveat handwriting script to available note fonts.\n• Give your notes a personal journal feel."
+  },
+  {
+    "id": "notice_update_77",
+    "title": "1.9.3 Memory Footprint Reduction",
+    "date": "25/07/2025",
+    "tag": "Update",
+    "imp": false,
+    "message": "• Optimized bitmap recycling on devices with limited RAM.\n• Smooth 60fps operation on entry-level hardware."
+  },
+  {
+    "id": "notice_update_78",
+    "title": "1.9.2 Tablet Landscape Optimization",
+    "date": "19/07/2025",
+    "tag": "Update",
+    "imp": false,
+    "message": "• Adaptive two-column layouts for tablet landscape orientation.\n• Expanded drawing canvas on wide displays."
+  },
+  {
+    "id": "notice_update_79",
+    "title": "1.9.1 Quick Note Clone Action",
+    "date": "13/07/2025",
+    "tag": "Feature",
+    "imp": false,
+    "message": "• Duplicate any note with a single tap from the note menu.\n• Great for weekly templates and routines."
+  },
+  {
+    "id": "notice_update_80",
+    "title": "1.9.0 Checklist Subtasks Release",
+    "date": "07/07/2025",
+    "tag": "Feature",
+    "imp": false,
+    "message": "• Break down complex projects into organized hierarchical subtasks.\n• Track overall completion progress on card covers."
+  },
+  {
+    "id": "notice_update_81",
+    "title": "1.8.9 Washi Tape Strip Patterns",
+    "date": "30/06/2025",
+    "tag": "Feature",
+    "imp": false,
+    "message": "• Decorative washi tape strips for pinning notes aesthetically.\n• Striped, dotted, and pastel tape variants."
+  },
+  {
+    "id": "notice_update_82",
+    "title": "1.8.8 Drawing Canvas Undo Buffer",
+    "date": "24/06/2025",
+    "tag": "Feature",
+    "imp": false,
+    "message": "• Extended undo and redo steps up to 50 actions in drawing mode.\n• Sketch freely without worrying about mistakes."
+  },
+  {
+    "id": "notice_update_83",
+    "title": "1.8.7 Dark Mode Contrast Tuning",
+    "date": "18/06/2025",
+    "tag": "General",
+    "imp": false,
+    "message": "• Dark cork wall tone tuned for late-night readability.\n• Soft ambient lighting effect on sticky paper."
+  },
+  {
+    "id": "notice_update_84",
+    "title": "1.8.6 Battery Usage Improvements",
+    "date": "12/06/2025",
+    "tag": "Update",
+    "imp": false,
+    "message": "• Minimized background wakeups when widgets are inactive.\n• Near-zero standby power consumption."
+  },
+  {
+    "id": "notice_update_85",
+    "title": "1.8.5 Fast Canvas Note Reordering",
+    "date": "06/06/2025",
+    "tag": "Update",
+    "imp": false,
+    "message": "• Bring notes to the foreground with a quick tap.\n• Seamless layering for overlapping sticky notes."
+  },
+  {
+    "id": "notice_update_86",
+    "title": "1.8.4 Rich Markdown Hyperlinks",
+    "date": "31/05/2025",
+    "tag": "Feature",
+    "imp": false,
+    "message": "• Support for bold text, italic styling, and clickable web links.\n• Easily reference external websites from your notes."
+  },
+  {
+    "id": "notice_update_87",
+    "title": "1.8.3 Auto-Save Resilience",
+    "date": "25/05/2025",
+    "tag": "Update",
+    "imp": false,
+    "message": "• Asynchronous auto-save ensures uninterrupted typing flow.\n• Never lose a thought even if the app gets backgrounded."
+  },
+  {
+    "id": "notice_update_88",
+    "title": "1.8.2 Grid Snapping Options",
+    "date": "19/05/2025",
+    "tag": "Feature",
+    "imp": false,
+    "message": "• Optional snap-to-grid helps arrange tidy columns and rows.\n• Configurable grid spacing in Settings."
+  },
+  {
+    "id": "notice_update_89",
+    "title": "1.8.1 Note Pinning Security",
+    "date": "13/05/2025",
+    "tag": "Feature",
+    "imp": false,
+    "message": "• Lock note positions to prevent unintended drags or movement.\n• Perfect for permanent dashboard notes."
+  },
+  {
+    "id": "notice_update_90",
+    "title": "1.8.0 Wall Themes Expansion",
+    "date": "07/05/2025",
+    "tag": "Announcement",
+    "imp": false,
+    "message": "• Introducing new cork, wood grain, pastel, and minimal wall textures.\n• Personalize your workspace mood anytime."
+  },
+  {
+    "id": "notice_update_91",
+    "title": "1.7.9 Search Performance Boost",
+    "date": "30/04/2025",
+    "tag": "Update",
+    "imp": false,
+    "message": "• Instant full-text search across all canvas sticky notes.\n• Highlights matching words directly on the wall."
+  },
+  {
+    "id": "notice_update_92",
+    "title": "1.7.8 Reddit Setup Contest",
+    "date": "24/04/2025",
+    "tag": "Community",
+    "imp": false,
+    "message": "• Share your creative wall setup on r/DigitalStickyNotesApp!\n• Top featured walls win special community flair."
+  },
+  {
+    "id": "notice_update_93",
+    "title": "1.7.7 High-DPI Snapshot Export",
+    "date": "18/04/2025",
+    "tag": "Feature",
+    "imp": false,
+    "message": "• Export high-resolution PNG images of your entire canvas or single notes.\n• Perfect for printing or sharing with colleagues."
+  },
+  {
+    "id": "notice_update_94",
+    "title": "1.7.6 Drawing Color Palette Sync",
+    "date": "12/04/2025",
+    "tag": "Feature",
+    "imp": false,
+    "message": "• Drawing pen colors automatically sync with selected note paper tints.\n• Harmonious artistic notes every time."
+  },
+  {
+    "id": "notice_update_95",
+    "title": "1.7.5 Touch Physics Fine-Tuning",
+    "date": "06/04/2025",
+    "tag": "General",
+    "imp": false,
+    "message": "• Natural velocity transfer when dragging and releasing notes.\n• Smooth 60fps gesture response."
+  },
+  {
+    "id": "notice_update_96",
+    "title": "1.7.4 In-App Help & Guide",
+    "date": "31/03/2025",
+    "tag": "Guide",
+    "imp": false,
+    "message": "• Comprehensive built-in user guide covering gestures, widgets, and backups.\n• Access anytime directly from Settings."
+  },
+  {
+    "id": "notice_update_97",
+    "title": "1.7.3 Quick Date Stamp Action",
+    "date": "25/03/2025",
+    "tag": "Feature",
+    "imp": false,
+    "message": "• One-tap insertion of current date and timestamp into any note body.\n• Great for daily work logs and meeting summaries."
+  },
+  {
+    "id": "notice_update_98",
+    "title": "1.7.2 Clean Wall Mode Launch",
+    "date": "19/03/2025",
+    "tag": "Feature",
+    "imp": false,
+    "message": "• Hide all UI chrome for a distraction-free view of your digital notes.\n• Tap anywhere to restore navigation controls."
+  },
+  {
+    "id": "notice_update_99",
+    "title": "1.7.1 Local Storage Integrity",
+    "date": "13/03/2025",
+    "tag": "Update",
+    "imp": false,
+    "message": "• Atomic writes prevent partial saves during sudden app terminations.\n• Safe, reliable offline storage."
+  },
+  {
+    "id": "notice_update_100",
+    "title": "1.7.0 Digital Sticky Notes Classic",
+    "date": "07/03/2025",
+    "tag": "Announcement",
+    "imp": false,
+    "message": "• Thank you for being part of our journey from the very beginning!\n• Simple, tactile, and completely private sticky notes for Android."
   }
 ]
