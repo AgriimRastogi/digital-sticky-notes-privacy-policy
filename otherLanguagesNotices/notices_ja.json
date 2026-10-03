@@ -2,10 +2,10 @@
   {
     "id": "notice_v2_7_5_updates",
     "title": "2.7.5 アップデート",
-    "date": "04/10/2026 12:00",
+    "date": "03/10/2026",
     "tag": "Feature",
     "imp": true,
     "message": "• アプリ内で最新情報を受け取れるようになりました！このように。\n• 設定に**フィードバックを送信**ボタンを追加しました。\n• [Reddit コミュニティ](https://www.reddit.com/r/DigitalStickyNotesApp/)に参加しましょう！\n• 削除したメモはゴミ箱で一定期間安全に保護されます。",
-    "timestamp": 1791115200000
+    "timestamp": 1790999400000
   }
 ]

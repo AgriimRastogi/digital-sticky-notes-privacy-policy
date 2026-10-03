@@ -2,10 +2,10 @@
   {
     "id": "notice_v2_7_5_updates",
     "title": "Mises à jour 2.7.5",
-    "date": "04/10/2026 12:00",
+    "date": "03/10/2026",
     "tag": "Feature",
     "imp": true,
     "message": "• Vous pouvez désormais recevoir des mises à jour dans l'application ! Comme celle-ci.\n• Ajout du bouton **Envoyer des commentaires** dans les Paramètres.\n• Rejoignez notre [communauté Reddit](https://www.reddit.com/r/DigitalStickyNotesApp/) !\n• Vos notes supprimées sont désormais conservées en sécurité dans la Corbeille.",
-    "timestamp": 1791115200000
+    "timestamp": 1790999400000
   }
 ]
