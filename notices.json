@@ -2,9 +2,401 @@
   {
     "id": "notice_v2_7_5_updates",
     "title": "2.7.5 Updates",
-    "date": "03/10/2026",
+    "date": "04/10/2026",
     "tag": "Feature",
     "imp": true,
     "message": "• Now, you can receive in-app updates! Like this.\n• Added **Send Feedback** button in Settings.\n• Join our [Reddit community](https://www.reddit.com/r/DigitalStickyNotesApp/)!\n• Now your deleted notes are safe for some time in the Recycle Bin."
+  },
+  {
+    "id": "notice_update_2",
+    "title": "2.7.4 Performance & Rendering Boost",
+    "date": "04/10/2026",
+    "tag": "Update",
+    "imp": false,
+    "message": "• Smoother canvas scrolling on high refresh rate displays (90Hz / 120Hz).\n• Reduced memory footprint when rendering extensive sticky walls."
+  },
+  {
+    "id": "notice_update_3",
+    "title": "2.7.3 Canvas Pinch & Zoom Refinements",
+    "date": "04/10/2026",
+    "tag": "Feature",
+    "imp": false,
+    "message": "• Added smoother gesture response when zooming out on large walls.\n• Fine-tuned snap-to-grid thresholds for precise alignment."
+  },
+  {
+    "id": "notice_update_4",
+    "title": "2.7.2 Widget Refresh & Sync Improvements",
+    "date": "04/10/2026",
+    "tag": "Update",
+    "imp": false,
+    "message": "• Widgets now refresh immediately after editing text or drawing on the canvas.\n• Fixed a rare visual glitch when updating widget snapshots in background."
+  },
+  {
+    "id": "notice_update_5",
+    "title": "2.7.1 Drawing Mode Smooth Ink Engine",
+    "date": "04/10/2026",
+    "tag": "Feature",
+    "imp": false,
+    "message": "• Ink strokes now render with pressure sensitivity and anti-aliased curves.\n• Added quick eraser undo for pencil and marker tools."
+  },
+  {
+    "id": "notice_update_6",
+    "title": "2.7.0 Folders Drag and Drop Experience",
+    "date": "04/10/2026",
+    "tag": "Update",
+    "imp": false,
+    "message": "• Drag any note onto another to automatically create and organize notes in folders.\n• Seamless folder expansion and single-tap dilution."
+  },
+  {
+    "id": "notice_update_7",
+    "title": "2.6.9 Recycle Bin Safe Storage",
+    "date": "04/10/2026",
+    "tag": "Feature",
+    "imp": false,
+    "message": "• Introducing the Recycle Bin! Deleted sticky notes can now be restored.\n• Permanently delete or restore notes anytime with a single tap."
+  },
+  {
+    "id": "notice_update_8",
+    "title": "2.6.8 Typography & Special Elite Tuning",
+    "date": "04/10/2026",
+    "tag": "General",
+    "imp": false,
+    "message": "• Improved typewriter font alignment across different Android screen densities.\n• Better character spacing for handwriting and cursive styles."
+  },
+  {
+    "id": "notice_update_9",
+    "title": "2.6.7 Washi Tape Styling Options",
+    "date": "04/10/2026",
+    "tag": "Feature",
+    "imp": false,
+    "message": "• Added classic and colorful washi tape strips for your notes.\n• Toggle washi tape on or off anytime in Settings."
+  },
+  {
+    "id": "notice_update_10",
+    "title": "2.6.6 Wall Theme Contrast Enhancements",
+    "date": "04/10/2026",
+    "tag": "Update",
+    "imp": false,
+    "message": "• Refined dark cork and pastel wall backgrounds for higher text legibility.\n• Subtle ambient shadows for realistic paper depth."
+  },
+  {
+    "id": "notice_update_11",
+    "title": "2.6.5 Recycle Bin Initial Preview",
+    "date": "04/10/2026",
+    "tag": "Feature",
+    "imp": false,
+    "message": "• Safe temporary retention for deleted sticky notes.\n• Preview note content before restoring to canvas."
+  },
+  {
+    "id": "notice_update_12",
+    "title": "2.6.4 Quick Note Creation Shortcuts",
+    "date": "04/10/2026",
+    "tag": "Update",
+    "imp": false,
+    "message": "• Double-tap on any empty canvas area to instantly spawn a sticky note.\n• Default sticky note colors can now match your last picked palette."
+  },
+  {
+    "id": "notice_update_13",
+    "title": "2.6.3 Color Palette Vibrancy Polish",
+    "date": "04/10/2026",
+    "tag": "General",
+    "imp": false,
+    "message": "• Added warm honey, sage green, and lavender pastel tints to the palette picker.\n• Contrast adjusted for both daylight and nighttime reading."
+  },
+  {
+    "id": "notice_update_14",
+    "title": "2.6.2 Widget Pool Memory Optimization",
+    "date": "04/10/2026",
+    "tag": "Update",
+    "imp": false,
+    "message": "• Background widget pool now stores optimized snapshot caches.\n• Lower battery consumption when using multiple home screen widgets."
+  },
+  {
+    "id": "notice_update_15",
+    "title": "2.6.1 Checklist Reordering Smoothness",
+    "date": "04/10/2026",
+    "tag": "Feature",
+    "imp": false,
+    "message": "• Drag to reorder checklist items with tactile haptic feedback.\n• Strikethrough completed items with satisfying animations."
+  },
+  {
+    "id": "notice_update_16",
+    "title": "2.6.0 Multi-Language Localization Expansion",
+    "date": "04/10/2026",
+    "tag": "Announcement",
+    "imp": false,
+    "message": "• Digital Sticky Notes is now available in 14 languages worldwide!\n• Switch languages instantly from Settings > Globe icon."
+  },
+  {
+    "id": "notice_update_17",
+    "title": "2.5.9 Backup & Restore Stability",
+    "date": "04/10/2026",
+    "tag": "Update",
+    "imp": false,
+    "message": "• Export all your notes into an encrypted .json file for safe offline keeping.\n• One-tap import restores walls, colors, folders, and positions."
+  },
+  {
+    "id": "notice_update_18",
+    "title": "2.5.8 Clean Wall View Mode",
+    "date": "04/10/2026",
+    "tag": "Feature",
+    "imp": false,
+    "message": "• Hide all interface buttons for an immersive full-screen display of your wall.\n• Tap anywhere to reveal navigation controls again."
+  },
+  {
+    "id": "notice_update_19",
+    "title": "2.5.7 Haptic Feedback Tuning",
+    "date": "04/10/2026",
+    "tag": "General",
+    "imp": false,
+    "message": "• Subtle tactile feedback when moving notes, toggling switches, and pinning.\n• Can be adjusted according to system haptics preferences."
+  },
+  {
+    "id": "notice_update_20",
+    "title": "2.5.6 Search & Filter Enhancements",
+    "date": "04/10/2026",
+    "tag": "Update",
+    "imp": false,
+    "message": "• Faster note lookup by title, content, or color tag.\n• Filter active sticky notes across folders and stacks."
+  },
+  {
+    "id": "notice_update_21",
+    "title": "2.5.5 High-Resolution Image Export",
+    "date": "04/10/2026",
+    "tag": "Feature",
+    "imp": false,
+    "message": "• Export any sticky note or full wall snapshot in crystal clear PNG quality.\n• Share directly to messaging apps, social media, or cloud storage."
+  },
+  {
+    "id": "notice_update_22",
+    "title": "2.5.4 Tablet & Foldable Screen Support",
+    "date": "04/10/2026",
+    "tag": "Update",
+    "imp": false,
+    "message": "• Optimized responsive layouts for large Android tablets and foldables.\n• Expanded canvas workspace with adaptive side margins."
+  },
+  {
+    "id": "notice_update_23",
+    "title": "2.5.3 Dark Mode Canvas Comfort",
+    "date": "04/10/2026",
+    "tag": "General",
+    "imp": false,
+    "message": "• Inverted dark wall themes for late night journaling and studying.\n• Automatic theme switching based on Android system appearance."
+  },
+  {
+    "id": "notice_update_24",
+    "title": "2.5.2 Drawing Palette Brush Sizes",
+    "date": "04/10/2026",
+    "tag": "Feature",
+    "imp": false,
+    "message": "• Added fine, medium, and broad stroke widths for hand-drawn sketches.\n• Color swatches now sync with active note paper colors."
+  },
+  {
+    "id": "notice_update_25",
+    "title": "2.5.1 Quick Note Duplication",
+    "date": "04/10/2026",
+    "tag": "Update",
+    "imp": false,
+    "message": "• Long press a sticky note to quickly clone it with identical styling.\n• Useful for repetitive task templates and weekly planning."
+  },
+  {
+    "id": "notice_update_26",
+    "title": "2.5.0 Wall Organization Stacks",
+    "date": "04/10/2026",
+    "tag": "Feature",
+    "imp": false,
+    "message": "• Stack related notes neatly on top of each other to save canvas space.\n• Peel through stacked notes with intuitive touch gestures."
+  },
+  {
+    "id": "notice_update_27",
+    "title": "2.4.9 Android 14 System Compatibility",
+    "date": "04/10/2026",
+    "tag": "Update",
+    "imp": false,
+    "message": "• Full compatibility updates for modern Android 14 / API 34 standards.\n• Predictive back gesture animations and enhanced permission security."
+  },
+  {
+    "id": "notice_update_28",
+    "title": "2.4.8 Lock Sticky Note Position",
+    "date": "04/10/2026",
+    "tag": "Feature",
+    "imp": false,
+    "message": "• Pin critical notes in place so they cannot be accidentally moved or dragged.\n• Tap lock icon in note options to freeze position."
+  },
+  {
+    "id": "notice_update_29",
+    "title": "2.4.7 Checklist Progress Counters",
+    "date": "04/10/2026",
+    "tag": "Update",
+    "imp": false,
+    "message": "• Visual progress indicator shows completed items (e.g., 3/5 done) on cards.\n• Motivational celebration animation upon checking off all items."
+  },
+  {
+    "id": "notice_update_30",
+    "title": "2.4.6 Minimalist Widget Layout",
+    "date": "04/10/2026",
+    "tag": "General",
+    "imp": false,
+    "message": "• Streamlined borderless widget options for clean Android home screens.\n• Supports transparent background mode."
+  },
+  {
+    "id": "notice_update_31",
+    "title": "2.4.5 Auto-Save & Crash Protection",
+    "date": "04/10/2026",
+    "tag": "Update",
+    "imp": false,
+    "message": "• Real-time auto-saving keeps every keystroke safe even if the app closes.\n• Zero risk of losing drafts or quick ideas."
+  },
+  {
+    "id": "notice_update_32",
+    "title": "2.4.4 Custom Font Sizing Controls",
+    "date": "04/10/2026",
+    "tag": "Feature",
+    "imp": false,
+    "message": "• Adjust note text size from compact to extra-large for optimal readability.\n• Independent font settings for titles and body text."
+  },
+  {
+    "id": "notice_update_33",
+    "title": "2.4.3 Reddit Community Milestones",
+    "date": "04/10/2026",
+    "tag": "Community",
+    "imp": false,
+    "message": "• Join over thousands of sticky note fans sharing wallpapers and setups!\n• Share your aesthetic walls on r/DigitalStickyNotesApp."
+  },
+  {
+    "id": "notice_update_34",
+    "title": "2.4.2 Quick Date Stamp Insertion",
+    "date": "04/10/2026",
+    "tag": "Feature",
+    "imp": false,
+    "message": "• Single tap inserts today's date and time stamp into any active note draft.\n• Perfect for meeting minutes, logs, and daily journals."
+  },
+  {
+    "id": "notice_update_35",
+    "title": "2.4.1 Canvas Grid Snapping",
+    "date": "04/10/2026",
+    "tag": "Update",
+    "imp": false,
+    "message": "• Optional magnetic grid lines help keep rows and columns neatly organized.\n• Easily toggle snap-to-grid on and off."
+  },
+  {
+    "id": "notice_update_36",
+    "title": "2.4.0 Interactive User Guide Release",
+    "date": "04/10/2026",
+    "tag": "Guide",
+    "imp": false,
+    "message": "• Step-by-step interactive visual guide accessible anytime from Settings.\n• Learn advanced features like gestures, stacking, and widget setup."
+  },
+  {
+    "id": "notice_update_37",
+    "title": "2.3.9 Battery Saver Mode",
+    "date": "04/10/2026",
+    "tag": "General",
+    "imp": false,
+    "message": "• Optimized render loops reduce background battery consumption to near zero.\n• Smooth 60fps animations with minimal processor usage."
+  },
+  {
+    "id": "notice_update_38",
+    "title": "2.3.8 Recycle Bin Permanence",
+    "date": "04/10/2026",
+    "tag": "Update",
+    "imp": false,
+    "message": "• Improved local storage caching for notes kept in the Recycle Bin.\n• View note creation dates and timestamps easily."
+  },
+  {
+    "id": "notice_update_39",
+    "title": "2.3.7 Color Picker Spectrum",
+    "date": "04/10/2026",
+    "tag": "Feature",
+    "imp": false,
+    "message": "• Expanded pastel, neon, and earth-toned sticky note color options.\n• Save your favorite custom color combinations."
+  },
+  {
+    "id": "notice_update_40",
+    "title": "2.3.6 Quick Clear Wall Action",
+    "date": "04/10/2026",
+    "tag": "Update",
+    "imp": false,
+    "message": "• Archive all canvas notes to the Recycle Bin in a single protected action.\n• Start fresh with a blank canvas anytime."
+  },
+  {
+    "id": "notice_update_41",
+    "title": "2.3.5 Offline-First Architecture",
+    "date": "04/10/2026",
+    "tag": "Announcement",
+    "imp": false,
+    "message": "• Digital Sticky Notes is 100% private and offline-first.\n• All your notes, drawings, and widgets stay strictly on your local device."
+  },
+  {
+    "id": "notice_update_42",
+    "title": "2.3.4 Special Elite Character Support",
+    "date": "04/10/2026",
+    "tag": "General",
+    "imp": false,
+    "message": "• Extended glyph support for accented characters and international symbols.\n• Clean typography across Latin, Cyrillic, and extended character sets."
+  },
+  {
+    "id": "notice_update_43",
+    "title": "2.3.3 Widget Tap Actions",
+    "date": "04/10/2026",
+    "tag": "Feature",
+    "imp": false,
+    "message": "• Tap home screen widget to jump straight into editing that specific note.\n• Seamless transition from home screen to canvas."
+  },
+  {
+    "id": "notice_update_44",
+    "title": "2.3.2 Note Sharing Text Format",
+    "date": "04/10/2026",
+    "tag": "Update",
+    "imp": false,
+    "message": "• Share note content as plain text or formatted markdown with one tap.\n• Convenient for pasting into emails, chats, or document apps."
+  },
+  {
+    "id": "notice_update_45",
+    "title": "2.3.1 Smooth Gesture Physics",
+    "date": "04/10/2026",
+    "tag": "General",
+    "imp": false,
+    "message": "• Realistic physics-based inertia when tossing or sliding notes across canvas.\n• Natural friction deceleration feel."
+  },
+  {
+    "id": "notice_update_46",
+    "title": "2.3.0 Checklist Multi-Select",
+    "date": "04/10/2026",
+    "tag": "Feature",
+    "imp": false,
+    "message": "• Bulk select checklist items to delete or re-tag multiple tasks together.\n• Clean batch workflow for to-do lists."
+  },
+  {
+    "id": "notice_update_47",
+    "title": "2.2.9 Storage Usage Summary",
+    "date": "04/10/2026",
+    "tag": "Update",
+    "imp": false,
+    "message": "• Settings now displays local storage space used by notes and cached snapshots.\n• Manage storage footprint easily."
+  },
+  {
+    "id": "notice_update_48",
+    "title": "2.2.8 Welcome & Newcomer Tips",
+    "date": "04/10/2026",
+    "tag": "Guide",
+    "imp": false,
+    "message": "• Practical onboarding cards for first-time app explorers.\n• Helpful tips on backups, widgets, and wall aesthetics."
+  },
+  {
+    "id": "notice_update_49",
+    "title": "2.2.7 Community Wall Showcase",
+    "date": "04/10/2026",
+    "tag": "Community",
+    "imp": false,
+    "message": "• Check out creative study walls and mood boards created by fellow users.\n• Submit your own setups to be featured in the community!"
+  },
+  {
+    "id": "notice_update_50",
+    "title": "2.2.0 Digital Sticky Notes 2.0 Genesis",
+    "date": "04/10/2026",
+    "tag": "Announcement",
+    "imp": false,
+    "message": "• Welcome to the all-new Digital Sticky Notes experience!\n• Infinite canvas, home screen widgets, hand drawing, and tactile sticky paper."
   }
 ]
