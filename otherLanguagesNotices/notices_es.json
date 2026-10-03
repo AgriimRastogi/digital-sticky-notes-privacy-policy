@@ -1,26 +1,14 @@
 [
   {
-    "id": "changelog_v2_6_5",
-    "title": "Novedades y papelera de reciclaje",
-    "date": "02/10/2026",
-    "tag": "Update",
-    "message": "¡Hemos añadido una **Papelera de reciclaje** para recuperar notas eliminadas, confirmaciones instantáneas y temas fluidos! Conéctate con nosotros en [nuestro Reddit](https://www.reddit.com/r/DigitalStickyNotesApp/) para compartir tus comentarios.",
-    "link": {
-      "text": "Visitar comunidad de Reddit",
-      "url": "https://www.reddit.com/r/DigitalStickyNotesApp/"
-    },
-    "imp": true
-  },
-  {
-    "id": "widget_pool_guide_v1",
-    "title": "Guía de widgets de pantalla de inicio",
-    "date": "01/10/2026",
+    "id": "notice_v2_7_5_updates",
+    "title": "Actualizaciones de 2.7.5",
+    "date": "03/10/2026",
     "tag": "Feature",
-    "message": "¿Sabías que puedes fijar notas adhesivas en la pantalla de tu móvil? Toca el icono de **reserva de widgets** en cualquier nota para añadirla y colócala en tu pantalla de inicio. ¡Aprende más en la [Guía completa de usuario](app://guide)!",
+    "imp": true,
+    "message": "• ¡Ahora puedes recibir actualizaciones dentro de la app! Como esta.\n• Se añadió el botón **Enviar comentarios** en Ajustes.\n• ¡Únete a nuestra [comunidad de Reddit](https://www.reddit.com/r/DigitalStickyNotesApp/)!\n• Ahora tus notas eliminadas están a salvo por un tiempo en la papelera.",
     "link": {
-      "text": "Abrir guía de usuario",
-      "url": "app://guide"
-    },
-    "imp": true
+      "text": "Unirse a la comunidad de Reddit",
+      "url": "https://www.reddit.com/r/DigitalStickyNotesApp/"
+    }
   }
 ]

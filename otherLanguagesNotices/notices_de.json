@@ -1,26 +1,14 @@
 [
   {
-    "id": "changelog_v2_6_5",
-    "title": "Änderungsprotokoll & Papierkorb",
-    "date": "02/10/2026",
-    "tag": "Update",
-    "message": "Wir haben einen brandneuen **Papierkorb** zum Wiederherstellen gelöschter Notizen, sofortige Bestätigungen und flüssige **Designs** hinzugefügt! Tauschen Sie sich auf [unserem Reddit](https://www.reddit.com/r/DigitalStickyNotesApp/) mit uns aus.",
-    "link": {
-      "text": "Reddit-Community besuchen",
-      "url": "https://www.reddit.com/r/DigitalStickyNotesApp/"
-    },
-    "imp": true
-  },
-  {
-    "id": "widget_pool_guide_v1",
-    "title": "Anleitung für Startbildschirm-Widgets",
-    "date": "01/10/2026",
+    "id": "notice_v2_7_5_updates",
+    "title": "2.7.5 Aktualisierungen",
+    "date": "03/10/2026",
     "tag": "Feature",
-    "message": "Wussten Sie, dass Sie Haftnotizen an Ihren Startbildschirm anheften können? Tippen Sie bei einer beliebigen Notiz auf das **Widget-Pool-Symbol**, um sie hinzuzufügen, und platzieren Sie dann das Widget. Mehr dazu im [Vollständigen Benutzerhandbuch](app://guide)!",
+    "imp": true,
+    "message": "• Jetzt kannst du In-App-Updates erhalten! Genau wie dieses.\n• Schaltfläche **Feedback senden** in den Einstellungen hinzugefügt.\n• Tritt unserer [Reddit-Community](https://www.reddit.com/r/DigitalStickyNotesApp/) bei!\n• Deine gelöschten Notizen sind jetzt im Papierkorb für einige Zeit sicher aufgehoben.",
     "link": {
-      "text": "Benutzerhandbuch öffnen",
-      "url": "app://guide"
-    },
-    "imp": true
+      "text": "Reddit-Community beitreten",
+      "url": "https://www.reddit.com/r/DigitalStickyNotesApp/"
+    }
   }
 ]

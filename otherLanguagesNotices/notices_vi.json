@@ -1,26 +1,14 @@
 [
   {
-    "id": "changelog_v2_6_5",
-    "title": "Nhật ký thay đổi & Thùng rác",
-    "date": "02/10/2026",
-    "tag": "Update",
-    "message": "Chúng tôi đã thêm **Thùng rác** hoàn toàn mới để khôi phục ghi chú đã xóa, xác nhận tức thì và các **Chủ đề** mượt mà! Kết nối với chúng tôi trên [Reddit](https://www.reddit.com/r/DigitalStickyNotesApp/) để chia sẻ ý kiến.",
-    "link": {
-      "text": "Ghé thăm cộng đồng Reddit",
-      "url": "https://www.reddit.com/r/DigitalStickyNotesApp/"
-    },
-    "imp": true
-  },
-  {
-    "id": "widget_pool_guide_v1",
-    "title": "Hướng dẫn tiện ích màn hình chính",
-    "date": "01/10/2026",
+    "id": "notice_v2_7_5_updates",
+    "title": "Cập nhật 2.7.5",
+    "date": "03/10/2026",
     "tag": "Feature",
-    "message": "Bạn có biết bạn có thể ghim ghi chú lên màn hình điện thoại? Chạm vào **biểu tượng nhóm tiện ích** trên bất kỳ ghi chú nào để thêm, sau đó đặt tiện ích lên màn hình chính. Tìm hiểu thêm trong [Hướng dẫn sử dụng đầy đủ](app://guide)!",
+    "imp": true,
+    "message": "• Bây giờ bạn có thể nhận các bản cập nhật ngay trong ứng dụng! Giống như thông báo này.\n• Đã thêm nút **Gửi phản hồi** trong phần Cài đặt.\n• Tham gia [cộng đồng Reddit](https://www.reddit.com/r/DigitalStickyNotesApp/) của chúng tôi!\n• Giờ đây các ghi chú đã xóa của bạn được an toàn trong Thùng rác một thời gian.",
     "link": {
-      "text": "Mở hướng dẫn sử dụng",
-      "url": "app://guide"
-    },
-    "imp": true
+      "text": "Tham gia cộng đồng Reddit",
+      "url": "https://www.reddit.com/r/DigitalStickyNotesApp/"
+    }
   }
 ]
