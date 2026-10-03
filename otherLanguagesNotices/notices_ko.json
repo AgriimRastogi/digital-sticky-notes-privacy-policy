@@ -1,22 +1,10 @@
 [
   {
-    "id": "notice_pin_feature_v1",
-    "title": "중요한 알림 고정하기",
-    "date": "04/10/2026",
-    "tag": "Feature",
-    "imp": true,
-    "message": "• **오른쪽으로 밀어 고정**: 알림을 오른쪽으로 밀어 맨 위에 고정할 수 있습니다!\n• **왼쪽으로 밀어 삭제**: 불필요한 알림은 왼쪽으로 밀어 삭제하세요.\n• 언어를 변경해도 고정된 알림은 항상 상단에 유지됩니다.",
-    "link": {
-      "text": "Reddit 커뮤니티 참여하기",
-      "url": "https://www.reddit.com/r/DigitalStickyNotesApp/"
-    }
-  },
-  {
     "id": "notice_v2_7_5_updates",
     "title": "2.7.5 업데이트",
     "date": "03/10/2026",
     "tag": "Feature",
-    "imp": false,
+    "imp": true,
     "message": "• 이제 앱 내에서 업데이트 소식을 받을 수 있습니다! 이 알림처럼요.\n• 설정에 **의견 보내기** 버튼이 추가되었습니다.\n• [Reddit 커뮤니티](https://www.reddit.com/r/DigitalStickyNotesApp/)에 참여해 보세요!\n• 이제 삭제된 메모가 휴지통에 일정 기간 안전하게 보관됩니다.",
     "link": {
       "text": "Reddit 커뮤니티 참여하기",

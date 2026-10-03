@@ -1,22 +1,10 @@
 [
   {
-    "id": "notice_pin_feature_v1",
-    "title": "Fija tus avisos importantes",
-    "date": "04/10/2026",
-    "tag": "Feature",
-    "imp": true,
-    "message": "• **Desliza a la derecha para fijar**: ¡Ahora puedes fijar cualquier aviso arriba deslizando a la derecha!\n• **Desliza a la izquierda para eliminar**: Desliza a la izquierda para borrar los avisos que no necesites.\n• Los avisos fijados permanecen arriba incluso si cambias de idioma.",
-    "link": {
-      "text": "Unirse a la comunidad de Reddit",
-      "url": "https://www.reddit.com/r/DigitalStickyNotesApp/"
-    }
-  },
-  {
     "id": "notice_v2_7_5_updates",
     "title": "Actualizaciones de 2.7.5",
     "date": "03/10/2026",
     "tag": "Feature",
-    "imp": false,
+    "imp": true,
     "message": "• ¡Ahora puedes recibir actualizaciones dentro de la app! Como esta.\n• Se añadió el botón **Enviar comentarios** en Ajustes.\n• ¡Únete a nuestra [comunidad de Reddit](https://www.reddit.com/r/DigitalStickyNotesApp/)!\n• Ahora tus notas eliminadas están a salvo por un tiempo en la papelera.",
     "link": {
       "text": "Unirse a la comunidad de Reddit",

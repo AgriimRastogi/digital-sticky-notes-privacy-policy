@@ -1,22 +1,10 @@
 [
   {
-    "id": "notice_pin_feature_v1",
-    "title": "Épinglez vos notifications importantes",
-    "date": "04/10/2026",
-    "tag": "Feature",
-    "imp": true,
-    "message": "• **Glissez vers la droite pour épingler** : Vous pouvez maintenant épingler n'importe quel avis en haut en glissant vers la droite !\n• **Glissez vers la gauche pour supprimer** : Glissez vers la gauche pour effacer les avis inutiles.\n• Les avis épinglés restent toujours en haut même lorsque vous changez de langue.",
-    "link": {
-      "text": "Rejoindre la communauté Reddit",
-      "url": "https://www.reddit.com/r/DigitalStickyNotesApp/"
-    }
-  },
-  {
     "id": "notice_v2_7_5_updates",
     "title": "Mises à jour 2.7.5",
     "date": "03/10/2026",
     "tag": "Feature",
-    "imp": false,
+    "imp": true,
     "message": "• Vous pouvez désormais recevoir des mises à jour dans l'application ! Comme celle-ci.\n• Ajout du bouton **Envoyer des commentaires** dans les Paramètres.\n• Rejoignez notre [communauté Reddit](https://www.reddit.com/r/DigitalStickyNotesApp/) !\n• Vos notes supprimées sont désormais conservées en sécurité dans la Corbeille.",
     "link": {
       "text": "Rejoindre la communauté Reddit",

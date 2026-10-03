@@ -1,22 +1,10 @@
 [
   {
-    "id": "notice_pin_feature_v1",
-    "title": "Önemli Bildirimleri Sabitleyin",
-    "date": "04/10/2026",
-    "tag": "Feature",
-    "imp": true,
-    "message": "• **Sabitlemek İçin Sağa Kaydırın**: Artık herhangi bir bildirimi sağa kaydırarak en üste sabitleyebilirsiniz!\n• **Silmek İçin Sola Kaydırın**: İhtiyacınız olmayan bildirimleri sola kaydırarak kaldırın.\n• Sabitlenen bildirimler dil değiştirdiğinizde bile her zaman üstte kalır.",
-    "link": {
-      "text": "Reddit Topluluğuna Katılın",
-      "url": "https://www.reddit.com/r/DigitalStickyNotesApp/"
-    }
-  },
-  {
     "id": "notice_v2_7_5_updates",
     "title": "2.7.5 Güncellemeleri",
     "date": "03/10/2026",
     "tag": "Feature",
-    "imp": false,
+    "imp": true,
     "message": "• Artık uygulama içi güncellemeleri alabilirsiniz! Tıpkı bunun gibi.\n• Ayarlar'a **Geri Bildirim Gönder** düğmesi eklendi.\n• [Reddit topluluğumuza](https://www.reddit.com/r/DigitalStickyNotesApp/) katılın!\n• Artık silinen notlarınız Geri Dönüşüm Kutusu'nda bir süre güvende tutuluyor.",
     "link": {
       "text": "Reddit Topluluğuna Katıl",

@@ -1,22 +1,10 @@
 [
   {
-    "id": "notice_pin_feature_v1",
-    "title": "Ghim các thông báo quan trọng",
-    "date": "04/10/2026",
-    "tag": "Feature",
-    "imp": true,
-    "message": "• **Trượt sang phải để ghim**: Giờ đây bạn có thể ghim bất kỳ thông báo nào lên đầu bằng cách trượt sang phải!\n• **Trượt sang trái để xóa**: Trượt sang trái để xóa những thông báo không cần thiết.\n• Các thông báo đã ghim luôn ở trên cùng ngay cả khi bạn đổi ngôn ngữ.",
-    "link": {
-      "text": "Tham gia cộng đồng Reddit",
-      "url": "https://www.reddit.com/r/DigitalStickyNotesApp/"
-    }
-  },
-  {
     "id": "notice_v2_7_5_updates",
     "title": "Cập nhật 2.7.5",
     "date": "03/10/2026",
     "tag": "Feature",
-    "imp": false,
+    "imp": true,
     "message": "• Bây giờ bạn có thể nhận các bản cập nhật ngay trong ứng dụng! Giống như thông báo này.\n• Đã thêm nút **Gửi phản hồi** trong phần Cài đặt.\n• Tham gia [cộng đồng Reddit](https://www.reddit.com/r/DigitalStickyNotesApp/) của chúng tôi!\n• Giờ đây các ghi chú đã xóa của bạn được an toàn trong Thùng rác một thời gian.",
     "link": {
       "text": "Tham gia cộng đồng Reddit",

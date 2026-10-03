@@ -1,22 +1,10 @@
 [
   {
-    "id": "notice_pin_feature_v1",
-    "title": "Pin Your Important Notices",
-    "date": "04/10/2026",
-    "tag": "Feature",
-    "imp": true,
-    "message": "• **Slide Right to Pin**: Slide any notice to the right to pin it to the top!\n• **Slide Left to Delete**: Slide left to remove notices you don't need.\n• Pinned notices always stay pinned even when you change languages.",
-    "link": {
-      "text": "Join Reddit Community",
-      "url": "https://www.reddit.com/r/DigitalStickyNotesApp/"
-    }
-  },
-  {
     "id": "notice_v2_7_5_updates",
     "title": "2.7.5 Updates",
     "date": "03/10/2026",
     "tag": "Feature",
-    "imp": false,
+    "imp": true,
     "message": "• Now, you can receive in-app updates! Like this.\n• Added **Send Feedback** button in Settings.\n• Join our [Reddit community](https://www.reddit.com/r/DigitalStickyNotesApp/)!\n• Now your deleted notes are safe for some time in the Recycle Bin.",
     "link": {
       "text": "Join Reddit Community",
