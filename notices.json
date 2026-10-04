@@ -1,11 +1,10 @@
-[ 
+[
   {
     "id": "notice_v2_7_5_updates",
     "title": "2.7.5 Updates",
     "date": "03/10/2026",
     "timestamp": 1790999400000,
     "tag": "Feature",
-    "imp": true,
     "message": "• Now, you can receive in-app updates! Like this.\n• Added **Send Feedback** button in Settings.\n• Join our [Reddit community](https://www.reddit.com/r/DigitalStickyNotesApp/)!\n• Now your deleted notes are safe for some time in the Recycle Bin."
   }
 ]
