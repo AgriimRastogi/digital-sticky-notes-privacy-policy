@@ -1,0 +1,23 @@
+[
+  {
+    "id": "notice_my_dear_cabbages_203112",
+    "title": "Sevgili Lahanalarım! 🥬",
+    "tag": "Community",
+    "imp": true,
+    "message": "Benim, Rawalmond, senin iyiliğine ihtiyacım var!\n\nUygulamayı beğendiyseniz lütfen 10 saniyenizi ayırıp dürüst bir **inceleme** bırakın. Gerçekten yardımcı oluyor!\n\nHerhangi bir fikriniz, isteğiniz veya düşünceniz varsa istediğiniz zaman **Ayarlar ➔ Geri Bildirim** üzerinden bana bildirin.\n\nTeşekkür ederim! 💛\n— rawalmond",
+    "link": {
+      "text": "Google Play'de inceleyin",
+      "url": "https://play.google.com/store/apps/details?id=com.rawalmond.stickynotes"
+    },
+    "date": "10/10/2026",
+    "timestamp": 1791610203112
+  },
+  {
+    "id": "notice_v2_7_5_updates",
+    "title": "2.7.5 Güncellemeleri",
+    "date": "03/10/2026",
+    "tag": "Feature",
+    "message": "• Artık uygulama içi güncellemeleri alabilirsiniz! Tıpkı bunun gibi.\n• Ayarlar'a **Geri Bildirim Gönder** düğmesi eklendi.\n• [Reddit topluluğumuza](https://www.reddit.com/r/DigitalStickyNotesApp/) katılın!\n• Artık silinen notlarınız Geri Dönüşüm Kutusu'nda bir süre güvende tutuluyor.",
+    "timestamp": 1790999400000
+  }
+]

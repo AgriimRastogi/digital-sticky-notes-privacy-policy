@@ -1,0 +1,23 @@
+[
+  {
+    "id": "notice_my_dear_cabbages_203112",
+    "title": "¡Mis queridas coles! 🥬",
+    "tag": "Community",
+    "imp": true,
+    "message": "¡Yo, Rawalmond, necesito tu favor!\n\nSi te gusta la aplicación, tómate 10 segundos para dejar una **reseña** honesta. ¡Realmente ayuda!\n\nY si tienes alguna idea, solicitud o idea, dímelo en cualquier momento en **Configuración ➔ Comentarios**.\n\n¡Gracias! 💛\n— almendra cruda",
+    "link": {
+      "text": "Reseña en Google Play",
+      "url": "https://play.google.com/store/apps/details?id=com.rawalmond.stickynotes"
+    },
+    "date": "10/10/2026",
+    "timestamp": 1791610203112
+  },
+  {
+    "id": "notice_v2_7_5_updates",
+    "title": "Actualizaciones de 2.7.5",
+    "date": "03/10/2026",
+    "tag": "Feature",
+    "message": "• ¡Ahora puedes recibir actualizaciones dentro de la app! Como esta.\n• Se añadió el botón **Enviar comentarios** en Ajustes.\n• ¡Únete a nuestra [comunidad de Reddit](https://www.reddit.com/r/DigitalStickyNotesApp/)!\n• Ahora tus notas eliminadas están a salvo por un tiempo en la papelera.",
+    "timestamp": 1790999400000
+  }
+]

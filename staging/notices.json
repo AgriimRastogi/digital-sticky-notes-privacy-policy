@@ -1,0 +1,23 @@
+[
+  {
+    "id": "notice_my_dear_cabbages_203112",
+    "title": "My Dear Cabbages! 🥬",
+    "tag": "Community",
+    "imp": true,
+    "message": "I, rawalmond, need your favor!\n\nIf you like the app, please take 10 seconds to leave an honest **review**. It really helps!\n\nAnd if you have any ideas, requests, or thoughts, tell me anytime in **Settings ➔ Feedback**.\n\nThank you! 💛\n— rawalmond",
+    "link": {
+      "text": "Review on Google Play",
+      "url": "https://play.google.com/store/apps/details?id=com.rawalmond.stickynotes"
+    },
+    "date": "10/10/2026",
+    "timestamp": 1791610203112
+  },
+  {
+    "id": "notice_v2_7_5_updates",
+    "title": "2.7.5 Updates",
+    "date": "03/10/2026",
+    "timestamp": 1790999400000,
+    "tag": "Feature",
+    "message": "• Now, you can receive in-app updates! Like this.\n• Added **Send Feedback** button in Settings.\n• Join our [Reddit community](https://www.reddit.com/r/DigitalStickyNotesApp/)!\n• Now your deleted notes are safe for some time in the Recycle Bin."
+  }
+]

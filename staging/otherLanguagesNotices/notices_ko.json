@@ -1,0 +1,23 @@
+[
+  {
+    "id": "notice_my_dear_cabbages_203112",
+    "title": "내 사랑하는 양배추! 🥬",
+    "tag": "Community",
+    "imp": true,
+    "message": "나, 로와몬드, 당신의 호의가 필요해요!\n\n앱이 마음에 드셨다면 10초만 시간을 내어 솔직한 **리뷰**를 남겨주세요. 정말 도움이 됩니다!\n\n그리고 아이디어, 요청, 생각이 있으시면 언제든지 **설정 ➔ 피드백**을 통해 알려주세요.\n\n감사합니다! 💛\n— 생와몬드",
+    "link": {
+      "text": "Google Play에서 리뷰",
+      "url": "https://play.google.com/store/apps/details?id=com.rawalmond.stickynotes"
+    },
+    "date": "10/10/2026",
+    "timestamp": 1791610203112
+  },
+  {
+    "id": "notice_v2_7_5_updates",
+    "title": "2.7.5 업데이트",
+    "date": "03/10/2026",
+    "tag": "Feature",
+    "message": "• 이제 앱 내에서 업데이트 소식을 받을 수 있습니다! 이 알림처럼요.\n• 설정에 **의견 보내기** 버튼이 추가되었습니다.\n• [Reddit 커뮤니티](https://www.reddit.com/r/DigitalStickyNotesApp/)에 참여해 보세요!\n• 이제 삭제된 메모가 휴지통에 일정 기간 안전하게 보관됩니다.",
+    "timestamp": 1790999400000
+  }
+]
